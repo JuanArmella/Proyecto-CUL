@@ -96,7 +96,7 @@ footer{
 .barra{
     height: 1px;
     background-color: white;
-    margin: 40px 15px;
+    margin: 40px 15px 20px 15px;
 }
 
 h5{
@@ -137,6 +137,16 @@ h5{
 
 .enlace:hover{
     color: rgb(219, 192, 36);
+}
+
+.integrantes-titulo{
+    text-align: center;
+    padding-top: 0;
+}
+
+.integrantes{
+    margin: 0 auto;
+    padding: 0 0 15px 0;
 }
 
 @media (width < 1210px) {
